@@ -1,0 +1,4 @@
+make: Entering directory `/Users/leeclark/Documents/Github/docker-cdk'
+docker build -t leedevops/aws-cdk:1.169.0 .
+make: Leaving directory `/Users/leeclark/Documents/Github/docker-cdk'
+ 
